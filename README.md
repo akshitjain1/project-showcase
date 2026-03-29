@@ -1,78 +1,54 @@
-# 🚀 Akshit Jain - Project Portfolio
+# 🚀 Akshit Jain - Project Showcase
 
-Welcome to my project portfolio!  
-Here are my major projects categorized by domain.
-
----
-
-## 🤖 Machine Learning Projects
-
-### 🧠 Handwritten Assignment Grader
-AI system that evaluates handwritten assignments using OCR + NLP.
-
-🔧 Tech Stack: Python, TrOCR, Sentence-BERT, Streamlit  
-🔗 Repo: https://github.com/your-username/handwritten-grader  
+A curated collection of my projects across Machine Learning, Full-Stack Development, and Web Development.
 
 ---
 
-### 📊 Home Loan Advisor
-AI-powered system to provide personalized loan recommendations.
+## 🤖 Machine Learning & AI
 
-🔧 Tech Stack: Streamlit, Gemini API  
-🔗 Repo: https://github.com/your-username/home-loan-advisor  
-
----
-
-## 💻 Data Structures & Algorithms
-
-### 📘 DSA Solutions
-Collection of DSA problems solved in Java.
-
-🔧 Tech Stack: Java  
-🔗 Repo: https://github.com/your-username/dsa-java  
+| Project                             | Description                                      | Link                                                                    |
+| ----------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| Handwritten Assignment Grader       | OCR + LLM-based automated grading system         | [🔗 View](https://github.com/akshitjain1/handwritten-assignment-grader) |
+| EHR Clinical Entity Recognition     | Transformer-based NLP system for healthcare data | [🔗 View](https://github.com/akshitjain1)                               |
+| Rheumatoid Arthritis Stratification | K-Modes clustering for patient segmentation      | [🔗 View](https://github.com/akshitjain1)                               |
+| Home Loan Advisor                   | AI-based financial recommendation system         | [🔗 View](https://github.com/akshitjain1/home-loan-advisor)             |
 
 ---
 
-### 🧩 LeetCode Solutions
-All LeetCode problems with structured solutions.
+## 💻 Full-Stack Projects
 
-🔧 Tech Stack: C++ / Java  
-🔗 Repo: https://github.com/your-username/leetcode-solutions  
-
----
-
-## 🌐 Web Development Projects
-
-### 🎁 Surprise Website
-Interactive animated website built using HTML, CSS, JS.
-
-🔧 Tech Stack: HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/your-username/surprise-website  
+| Project                    | Description                                | Link                                      |
+| -------------------------- | ------------------------------------------ | ----------------------------------------- |
+| Employee Management System | Multi-role enterprise dashboard system     | [🔗 View](https://github.com/akshitjain1) |
+| Exam Platform (Django LMS) | Online exam system with OTP authentication | [🔗 View](https://github.com/akshitjain1) |
+| CampusMart                 | Campus-based e-commerce platform           | [🔗 View](https://github.com/akshitjain1) |
 
 ---
 
-## 📚 Learning & Notes
+## 🌐 Web Development
 
-### 📝 Study Activity Tracker
-Automated GitHub learning log system.
-
-🔧 Tech Stack: Python, GitHub Actions  
-🔗 Repo: https://github.com/your-username/study-activity  
-
----
-
-# 📊 Skills
-
-- 💻 Languages: Python, Java, C++, JavaScript  
-- ⚙️ Tools: Git, GitHub, Streamlit  
-- 🤖 Domains: Machine Learning, NLP, Web Development  
+| Project                | Description                                  | Link                                      |
+| ---------------------- | -------------------------------------------- | ----------------------------------------- |
+| Pathfinding Visualizer | Visualizes A*, BFS, DFS, Dijkstra algorithms | [🔗 View](https://github.com/akshitjain1) |
+| ByteBazzar             | Responsive e-commerce frontend               | [🔗 View](https://github.com/akshitjain1) |
+| Eco Tech               | E-waste awareness platform                   | [🔗 View](https://github.com/akshitjain1) |
 
 ---
 
-# 📫 Connect With Me
+## 🧪 Other Projects
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+| Project            | Description                              | Link                                      |
+| ------------------ | ---------------------------------------- | ----------------------------------------- |
+| Your Buddy Speaker | Text-to-speech + translation desktop app | [🔗 View](https://github.com/akshitjain1) |
+| AUTO-NO            | Hackathon quiz-based web application     | [🔗 View](https://github.com/akshitjain1) |
 
 ---
-⭐ If you like my work, feel free to explore and connect!
+
+## 📊 Coding Profiles
+
+* 🔗 LeetCode: https://leetcode.com/u/AkshitJain__1/
+* 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/user/akshitjain__1/
+
+---
+
+⭐ This repository serves as a quick navigation hub to all my work.
