@@ -11,7 +11,7 @@ A curated collection of my projects across Machine Learning, Full-Stack Developm
 | Handwritten Assignment Grader       | OCR + LLM-based automated grading system         | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1/handwritten-assignment-grader](https://github.com/akshitjain1/Handwritten-Classifier)) |
 | EHR Clinical Entity Recognition     | Transformer-based NLP system for healthcare data | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1](https://github.com/akshitjain1/EHR-CNER-Explainable))                               |
 | Rheumatoid Arthritis Stratification | K-Modes clustering for patient segmentation      | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1](https://github.com/akshitjain1/ra-kmodes-stratification))                               |
-| Home Loan Advisor                   | AI-based financial recommendation system         | [![View](https://img.shields.io/badge/View-Project-blue)][(https://github.com/akshitjain1/home-loan-advisor](https://github.com/akshitjain1/Home-Loan-Advisor))             |
+| Home Loan Advisor                   | AI-based financial recommendation system         | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1/home-loan-advisor](https://github.com/akshitjain1/Home-Loan-Advisor))             |
 
 ---
 
