@@ -6,7 +6,7 @@ A curated collection of my projects across Machine Learning, Full-Stack Developm
 # RECENT PROJECTS
 | Project                             | Description                                      | Link                                                                                                               |
 | ----------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Smart-India-Mapping-using-Big-Data  | how big data analytics + geospatial visualization + demographic insights         | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1/Handwritten-Classifier](https://github.com/akshitjain1/Smart-India-Mapping-using-Big-Data)   |
+| Smart-India-Mapping-using-Big-Data  | how big data analytics + geospatial visualization + demographic insights         | [![View](https://img.shields.io/badge/View-Project-blue)](https://github.com/akshitjain1/Smart-India-Mapping-using-Big-Data)   |
 
 ---
 ## 🤖 Machine Learning & AI
