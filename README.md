@@ -3,7 +3,13 @@
 A curated collection of my projects across Machine Learning, Full-Stack Development, and Web Development.
 
 ---
+# RECENT PROJECTS
+| Project                             | Description                                      | Link                                                                                                               |
+| ----------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Smart-India-Mapping-using-Big-Data  | how big data analytics + geospatial visualization + demographic insights         | [![View](https://img.shields.io/badge/View-Project-blue)]([https://github.com/akshitjain1/Handwritten-Classifier](https://github.com/akshitjain1/Smart-India-Mapping-using-Big-Data)   |
+| EHR Clinical Entity Recognition     | Transformer-based NLP system for healthcare data | [![View](https://img.shields.io/badge/View-Project-blue)](https://github.com/akshitjain1/EHR-CNER-Explainable)     |
 
+---
 ## 🤖 Machine Learning & AI
 
 | Project                             | Description                                      | Link                                                                                                               |
